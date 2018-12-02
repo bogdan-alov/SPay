@@ -1,2 +1,2 @@
 # SPay
-Project for C# Web course in SoftUni (softuni.bg)
+SPay - the secure way to pay everything!
